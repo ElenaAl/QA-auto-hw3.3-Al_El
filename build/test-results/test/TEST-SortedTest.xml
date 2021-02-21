@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SortedTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-02-21T09:18:57" hostname="SKYNET-KEEPER" time="0.164">
+  <properties/>
+  <testcase name="repeatNumbersTest()" classname="SortedTest" time="0.095"/>
+  <testcase name="initByZeroTest()" classname="SortedTest" time="0.003"/>
+  <testcase name="equalsTest()" classname="SortedTest" time="0.007"/>
+  <testcase name="allSameElementsTest()" classname="SortedTest" time="0.003"/>
+  <testcase name="alreadySortedArrayTest()" classname="SortedTest" time="0.004"/>
+  <testcase name="sortedHighToLoqArrTest()" classname="SortedTest" time="0.002"/>
+  <testcase name="notInitArrayTest()" classname="SortedTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
